@@ -6,7 +6,7 @@ Dashboard quotidien automatisé avec :
 - 🥇 Métaux : Futures OR/ARGENT 2026
 - 📰 Actualités économiques mondiales
 
-**🔗 Live Dashboard :** https://[username].github.io/pierres-dashboard
+**🔗 Live Dashboard :** https://shakkyjarvis-glitch.github.io/Jarvis
 
 ## Automatisation
 
